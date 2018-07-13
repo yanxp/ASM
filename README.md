@@ -1,6 +1,6 @@
 # ASM
 
-**Cost-Effective Object Detection: Active Sample Mining with Switchable Selection Criteria**
+**<a href="https://arxiv.org/pdf/1807.00147.pdf">Cost-Effective Object Detection: Active Sample Mining with Switchable Selection Criteria</a>**
 
 <a href="http://kezewang.com">Keze Wang</a>,
 <a href="http://www.linliang.net/">Liang Lin</a>,
